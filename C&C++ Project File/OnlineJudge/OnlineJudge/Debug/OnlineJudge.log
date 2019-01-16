@@ -1,0 +1,4 @@
+﻿  Trie.c
+d:\backupfiles\programming\c&c++ project file\onlinejudge\onlinejudge\trie.c(160): warning C4477: 'fscanf' : 서식 문자열 '%c'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+d:\backupfiles\programming\c&c++ project file\onlinejudge\onlinejudge\trie.c(163): warning C4477: 'fscanf' : 서식 문자열 '%c'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  OnlineJudge.vcxproj -> D:\BackupFiles\Programming\C&C++ Project File\OnlineJudge\Debug\OnlineJudge.exe

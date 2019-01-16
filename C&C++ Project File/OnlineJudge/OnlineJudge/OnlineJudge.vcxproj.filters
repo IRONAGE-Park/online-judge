@@ -1,0 +1,627 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\CodeGround">
+      <UniqueIdentifier>{b108fbf1-067c-48ff-9cf1-3480f6af0e4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON">
+      <UniqueIdentifier>{bdb873ac-7546-404e-9f50-c68bc5c5d8ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Normal Problem">
+      <UniqueIdentifier>{6e8a4a0b-6b8d-4901-b884-00545ff91300}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Step by Step">
+      <UniqueIdentifier>{9c4c52f1-b97f-4a46-ac3e-416a4a298b49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Step by Step\[10] PrimeFactor">
+      <UniqueIdentifier>{83eae2c4-db73-4a06-b8d4-08e2f8ab4dc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Step by Step\[1] Input/Output">
+      <UniqueIdentifier>{15d342b8-7a80-46c8-bf49-406cc5f54d33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Step by Step\[2] Arithmetic">
+      <UniqueIdentifier>{c6af0f98-9dcf-4942-ac2c-fc875f997469}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Step by Step\[3] For Loop Grammar">
+      <UniqueIdentifier>{53598bdc-f857-4e38-b134-13559d5adac9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Step by Step\[4] If Grammar">
+      <UniqueIdentifier>{60d37505-8a16-47ba-b8c5-8cd1d69da11c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Step by Step\[5] Function">
+      <UniqueIdentifier>{99d013ba-ea36-4f5c-8e73-4b705bda14a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Step by Step\[6] Array">
+      <UniqueIdentifier>{c8eecb8f-0eb7-4382-9788-9385ca81e28e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Step by Step\[7] String">
+      <UniqueIdentifier>{fe8ef023-0c6c-49a5-8648-8cd46a1d8cfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Step by Step\[8] Find a Rule">
+      <UniqueIdentifier>{15128c05-77dd-4742-9e0f-01c1c0e5fac1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Step by Step\[9] Sort">
+      <UniqueIdentifier>{ed213cdd-5544-45f9-b8e1-7633d9259933}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\CodeGround\Practice Problem">
+      <UniqueIdentifier>{40e80df2-0acf-4f58-8552-eba90faa806b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29">
+      <UniqueIdentifier>{2352dcab-b9af-4d44-ba55-664b59772f87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2015">
+      <UniqueIdentifier>{f2ed68bd-da18-4246-bae0-3269f843f033}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2015\Element">
+      <UniqueIdentifier>{497468c4-36c6-4ce1-8516-f614b1473f6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2015\Middle">
+      <UniqueIdentifier>{0f02edca-10a9-4e58-986c-38676a4b5c96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2015\High">
+      <UniqueIdentifier>{da003fe5-39b6-4513-980e-6b71352e0a4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2014">
+      <UniqueIdentifier>{f60c7d13-fa22-4857-a92e-af383fbbf707}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2013">
+      <UniqueIdentifier>{6eb93756-895a-4e2f-92a6-ba2423a9c017}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2014\Element">
+      <UniqueIdentifier>{c4bc8279-a112-4dda-b432-aa808c545783}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2014\Middle">
+      <UniqueIdentifier>{8082a457-0624-4d92-bafe-1a5868735d17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2014\High">
+      <UniqueIdentifier>{60e6d14a-a0da-488e-82f7-06c91cb99b49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2013\Element">
+      <UniqueIdentifier>{007e26d9-ebc3-4d0e-9444-5b0f4c2871b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2004">
+      <UniqueIdentifier>{654ef85c-48e8-48ec-82a5-b621cb9e6dbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2004\Element">
+      <UniqueIdentifier>{b9f805a3-adc3-4da4-bd8d-a4640775b8f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2006">
+      <UniqueIdentifier>{7f404702-06fd-4e05-b584-b1dc7fcf4a5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2006\Element">
+      <UniqueIdentifier>{8976f5fa-213e-45bf-819e-507c2d808aa7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2006\Middle">
+      <UniqueIdentifier>{762c06ab-b8c4-4a05-813b-47e5f01405cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Practice Code">
+      <UniqueIdentifier>{302b2f64-3746-46ac-a566-b7103a777ab4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Practice Code\SortCode">
+      <UniqueIdentifier>{e2f257ca-b180-4381-9fbb-471ce6c89c78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Dong-A Univ.">
+      <UniqueIdentifier>{af0655b8-f0bd-4b07-b86f-aa59a0b5550c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\FILE Input/OUTPUT">
+      <UniqueIdentifier>{4ff0ebd0-1260-4427-8e2a-1e22b5f46b1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Dong-A Univ.\Algorithm">
+      <UniqueIdentifier>{470b77d7-6f77-45f1-9cdf-e1f5fe969c15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MyContest">
+      <UniqueIdentifier>{36cc26ab-f19a-4af7-93aa-23374b599c6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MyContest\SCPC">
+      <UniqueIdentifier>{0df7120e-6dc4-4586-89e0-c3c541371fb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MyContest\SCPC\SCPC Tryout 1">
+      <UniqueIdentifier>{8579f0b9-2733-49f5-9c2c-04acb1c13be9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MyContest\SCPC\SCPC Tryout 2">
+      <UniqueIdentifier>{3db91043-9863-4fee-818f-3b97120c9d8a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MyContest\Kakao">
+      <UniqueIdentifier>{2e31e8ed-5825-4b4f-ae49-21635eec1c60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MyContest\Kakao\Kakao Blind Test">
+      <UniqueIdentifier>{52f0ca6d-eb41-4d49-b26d-9fba89b78e3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Dong-A Univ.\Discreate Mathmatics">
+      <UniqueIdentifier>{dafd40c0-e133-4bf4-8233-c7b244fac948}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="[1] Search PrimeNumber.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[10] PrimeFactor</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] PrimeNumber.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[10] PrimeFactor</Filter>
+    </ClCompile>
+    <ClCompile Include="[3] PrimeNumber Calculate.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[10] PrimeFactor</Filter>
+    </ClCompile>
+    <ClCompile Include="[4] Bertrand%27s Postulate.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[10] PrimeFactor</Filter>
+    </ClCompile>
+    <ClCompile Include="[4] LinearSetting.cpp">
+      <Filter>소스 파일\MyContest\SCPC\SCPC Tryout 1</Filter>
+    </ClCompile>
+    <ClCompile Include="[3] SpaceStation.cpp">
+      <Filter>소스 파일\MyContest\SCPC\SCPC Tryout 1</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] SumPalindrome.cpp">
+      <Filter>소스 파일\MyContest\SCPC\SCPC Tryout 1</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] TakeBus.cpp">
+      <Filter>소스 파일\MyContest\SCPC\SCPC Tryout 1</Filter>
+    </ClCompile>
+    <ClCompile Include="[3] BitonicPath.cpp">
+      <Filter>소스 파일\MyContest\SCPC\SCPC Tryout 2</Filter>
+    </ClCompile>
+    <ClCompile Include="[4] EarthQuake.cpp">
+      <Filter>소스 파일\MyContest\SCPC\SCPC Tryout 2</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] QuickSort.cpp">
+      <Filter>소스 파일\MyContest\SCPC\SCPC Tryout 2</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgrammingCup.cpp">
+      <Filter>소스 파일\CodeGround\Practice Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="JumpingFrog.cpp">
+      <Filter>소스 파일\CodeGround\Practice Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="IntegerSort.cpp">
+      <Filter>소스 파일\CodeGround\Practice Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="ExamStudy.cpp">
+      <Filter>소스 파일\CodeGround\Practice Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectNumber.cpp">
+      <Filter>소스 파일\CodeGround\Practice Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="Josephus.cpp">
+      <Filter>소스 파일\BAEKJOON\Normal Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="Process.c">
+      <Filter>소스 파일\BAEKJOON\Normal Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="Prompt.c">
+      <Filter>소스 파일\BAEKJOON\Normal Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="Turret.c">
+      <Filter>소스 파일\BAEKJOON\Normal Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="ApartNumRecording.cpp">
+      <Filter>소스 파일\BAEKJOON\Normal Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="ConvexHull.cpp">
+      <Filter>소스 파일\BAEKJOON\Normal Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="Dice.cpp">
+      <Filter>소스 파일\BAEKJOON\Normal Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] Hello World!.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[1] Input/Output</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] A+B.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[1] Input/Output</Filter>
+    </ClCompile>
+    <ClCompile Include="[3] A-B.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[1] Input/Output</Filter>
+    </ClCompile>
+    <ClCompile Include="[4] Regist.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[1] Input/Output</Filter>
+    </ClCompile>
+    <ClCompile Include="[5] Dog.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[1] Input/Output</Filter>
+    </ClCompile>
+    <ClCompile Include="[6] We Love Kriii.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[1] Input/Output</Filter>
+    </ClCompile>
+    <ClCompile Include="[7] Same Output 1.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[1] Input/Output</Filter>
+    </ClCompile>
+    <ClCompile Include="[8] Same Output 2.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[1] Input/Output</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] A+B.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[2] Arithmetic</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] A-B.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[2] Arithmetic</Filter>
+    </ClCompile>
+    <ClCompile Include="[3] AxB.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[2] Arithmetic</Filter>
+    </ClCompile>
+    <ClCompile Include="[4] ADivB.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[2] Arithmetic</Filter>
+    </ClCompile>
+    <ClCompile Include="[5] Arithmetic.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[2] Arithmetic</Filter>
+    </ClCompile>
+    <ClCompile Include="[6] Mod.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[2] Arithmetic</Filter>
+    </ClCompile>
+    <ClCompile Include="[7] A+B 2.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[2] Arithmetic</Filter>
+    </ClCompile>
+    <ClCompile Include="[8] SugarDelivery.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[2] Arithmetic</Filter>
+    </ClCompile>
+    <ClCompile Include="[3] TimesTable.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[3] For Loop Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] REPrintN.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[3] For Loop Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] PrintN.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[3] For Loop Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="[4] PrintStar 1.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[3] For Loop Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="[5] PrintStar 2.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[3] For Loop Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="[6] PrintStar 3.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[3] For Loop Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="[7] PrintStar 4.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[3] For Loop Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="[8] 2007Year.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[3] For Loop Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="[9] Sum.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[3] For Loop Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="[10] NumberSum.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[3] For Loop Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="[12] Fast A+B.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[3] For Loop Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="[11] OutputTenLines.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[3] For Loop Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] ExamScore.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[4] If Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] ThreeNumbers.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[4] If Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="[3] NumberLessThanX.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[4] If Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="[4] Average.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[4] If Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="[5] AverageIsOver.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[4] If Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="[6] SummationCycle.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[4] If Grammar</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] OneNumber.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[5] Function</Filter>
+    </ClCompile>
+    <ClCompile Include="[3] PrintStar 11.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[5] Function</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] SelfNumber.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[5] Function</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] NumberOfNumbers.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[6] Array</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] NumberOfWords.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[6] Array</Filter>
+    </ClCompile>
+    <ClCompile Include="[3] OXQuiz.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[6] Array</Filter>
+    </ClCompile>
+    <ClCompile Include="[4] Scale.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[6] Array</Filter>
+    </ClCompile>
+    <ClCompile Include="[5] AverageScore.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[6] Array</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] ASCIICode.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[7] String</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] SearchAlphabet.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[7] String</Filter>
+    </ClCompile>
+    <ClCompile Include="[3] RepeatString.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[7] String</Filter>
+    </ClCompile>
+    <ClCompile Include="[6] NumberOfWords.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[7] String</Filter>
+    </ClCompile>
+    <ClCompile Include="[7] SangSoo.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[7] String</Filter>
+    </ClCompile>
+    <ClCompile Include="[8] Dial.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[7] String</Filter>
+    </ClCompile>
+    <ClCompile Include="[9] CroatiaAlphabet.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[7] String</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] PrintStar 1.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[8] Find a Rule</Filter>
+    </ClCompile>
+    <ClCompile Include="[6] 2007Year.c">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[8] Find a Rule</Filter>
+    </ClCompile>
+    <ClCompile Include="[5] Goldbach%27s Conjecture.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[10] PrimeFactor</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] SortNumber 1.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[9] Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] SortNumber 2.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[9] Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="[3] SortNumber 3.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[9] Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="[5] SortInside.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[9] Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="[6] WordsSort.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[9] Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="[4] WordStudy.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[7] String</Filter>
+    </ClCompile>
+    <ClCompile Include="[5] GroupWordChecker.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[7] String</Filter>
+    </ClCompile>
+    <ClCompile Include="[3] IronStick.cpp">
+      <Filter>소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2015\Element</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] ReadingToVertical.cpp">
+      <Filter>소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2015\Element</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] TenSubTitle.cpp">
+      <Filter>소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2015\Element</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] CardGame.cpp">
+      <Filter>소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2015\Middle</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] IronStick.cpp">
+      <Filter>소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2015\Middle</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] ReverseCard.c">
+      <Filter>소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2015\High</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] Placement.cpp">
+      <Filter>소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2014\High</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] Biscuit.cpp">
+      <Filter>소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2014\Element</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] Placement.cpp">
+      <Filter>소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2014\Element</Filter>
+    </ClCompile>
+    <ClCompile Include="[3] Ant.c">
+      <Filter>소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2014\Element</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] Placements.cpp">
+      <Filter>소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2014\Middle</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] Ant.c">
+      <Filter>소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2014\Middle</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] Bulk.cpp">
+      <Filter>소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2013\Element</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] Dish.c">
+      <Filter>소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2013\Element</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] SetLine.c">
+      <Filter>소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2004\Element</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] NumOfNumbers.cpp">
+      <Filter>소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2006\Element</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] PrimeNumber.cpp">
+      <Filter>소스 파일\BAEKJOON\Korea Olympiad in Informatics%28Local%29\2006\Middle</Filter>
+    </ClCompile>
+    <ClCompile Include="RadixSort.cpp">
+      <Filter>소스 파일\Practice Code\SortCode</Filter>
+    </ClCompile>
+    <ClCompile Include="CountingSort.cpp">
+      <Filter>소스 파일\Practice Code\SortCode</Filter>
+    </ClCompile>
+    <ClCompile Include="[4] Statistics.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[9] Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] Honeycomb.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[8] Find a Rule</Filter>
+    </ClCompile>
+    <ClCompile Include="[3] SearchFraction.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[8] Find a Rule</Filter>
+    </ClCompile>
+    <ClCompile Include="[4] FlyMeToTheAlphaCentauri.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[8] Find a Rule</Filter>
+    </ClCompile>
+    <ClCompile Include="[5] ACMHotel.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[8] Find a Rule</Filter>
+    </ClCompile>
+    <ClCompile Include="[7] AFemalePresident.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[8] Find a Rule</Filter>
+    </ClCompile>
+    <ClCompile Include="[8] RoomNumber.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[8] Find a Rule</Filter>
+    </ClCompile>
+    <ClCompile Include="[9] CainCalendar.cpp">
+      <Filter>소스 파일\BAEKJOON\Step by Step\[8] Find a Rule</Filter>
+    </ClCompile>
+    <ClCompile Include="[AG] primefactor.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="[DM] dish.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Discreate Mathmatics</Filter>
+    </ClCompile>
+    <ClCompile Include="[DM] grid1.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Discreate Mathmatics</Filter>
+    </ClCompile>
+    <ClCompile Include="[AG] sequence.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="[DM] matrix.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Discreate Mathmatics</Filter>
+    </ClCompile>
+    <ClCompile Include="[DM] cross.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Discreate Mathmatics</Filter>
+    </ClCompile>
+    <ClCompile Include="[DM] grid2.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Discreate Mathmatics</Filter>
+    </ClCompile>
+    <ClCompile Include="[1] Open Chat Room.cpp">
+      <Filter>소스 파일\MyContest\Kakao\Kakao Blind Test</Filter>
+    </ClCompile>
+    <ClCompile Include="[2] Failure Rate.cpp">
+      <Filter>소스 파일\MyContest\Kakao\Kakao Blind Test</Filter>
+    </ClCompile>
+    <ClCompile Include="[4] Muzy%27s Food Eating Show Live.cpp">
+      <Filter>소스 파일\MyContest\Kakao\Kakao Blind Test</Filter>
+    </ClCompile>
+    <ClCompile Include="[AG] poly.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="gcd.cpp">
+      <Filter>소스 파일\Practice Code</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort.c">
+      <Filter>소스 파일\Practice Code\SortCode</Filter>
+    </ClCompile>
+    <ClCompile Include="[DM] mail.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Discreate Mathmatics</Filter>
+    </ClCompile>
+    <ClCompile Include="[AG] primefactor.c">
+      <Filter>소스 파일\Dong-A Univ.\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="Kakao1.cpp">
+      <Filter>소스 파일\MyContest\Kakao</Filter>
+    </ClCompile>
+    <ClCompile Include="Kakao2.cpp">
+      <Filter>소스 파일\MyContest\Kakao</Filter>
+    </ClCompile>
+    <ClCompile Include="Kakao4.cpp">
+      <Filter>소스 파일\MyContest\Kakao</Filter>
+    </ClCompile>
+    <ClCompile Include="[DM] block.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Discreate Mathmatics</Filter>
+    </ClCompile>
+    <ClCompile Include="[AG] bitmap.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="[AG] tree1.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="[DM] spreadsheet.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Discreate Mathmatics</Filter>
+    </ClCompile>
+    <ClCompile Include="FibonacciFunction.cpp">
+      <Filter>소스 파일\BAEKJOON\Normal Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="[AG] ladder.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="[AG] watertank.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="[AG] card2.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="[AG] card1.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="[AG] coin1.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="[AG] cube2.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="[DM] add.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Discreate Mathmatics</Filter>
+    </ClCompile>
+    <ClCompile Include="[DM] calender.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Discreate Mathmatics</Filter>
+    </ClCompile>
+    <ClCompile Include="[AG] stickers.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="[3] CandidateKey.cpp">
+      <Filter>소스 파일\MyContest\Kakao\Kakao Blind Test</Filter>
+    </ClCompile>
+    <ClCompile Include="KakaoOffline.cpp">
+      <Filter>소스 파일\MyContest\Kakao</Filter>
+    </ClCompile>
+    <ClCompile Include="NumberBaseball.cpp">
+      <Filter>소스 파일\BAEKJOON\Normal Problem</Filter>
+    </ClCompile>
+    <ClCompile Include="[AG] path2.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="[AG] path1.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="[DM] exam.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Discreate Mathmatics</Filter>
+    </ClCompile>
+    <ClCompile Include="[DM] numgame.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Discreate Mathmatics</Filter>
+    </ClCompile>
+    <ClCompile Include="C++ STL Test.cpp">
+      <Filter>소스 파일\Practice Code</Filter>
+    </ClCompile>
+    <ClCompile Include="[DM] tree%28Unperfect%29.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Discreate Mathmatics</Filter>
+    </ClCompile>
+    <ClCompile Include="[DM] dijkstra.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Discreate Mathmatics</Filter>
+    </ClCompile>
+    <ClCompile Include="[AG] mst.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="[AG] queue.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Algorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="[DM] dijkstra.c">
+      <Filter>소스 파일\Dong-A Univ.\Discreate Mathmatics</Filter>
+    </ClCompile>
+    <ClCompile Include="[DM] cycle.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Discreate Mathmatics</Filter>
+    </ClCompile>
+    <ClCompile Include="[DM] timeline.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Discreate Mathmatics</Filter>
+    </ClCompile>
+    <ClCompile Include="[DM] mst.cpp">
+      <Filter>소스 파일\Dong-A Univ.\Discreate Mathmatics</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt">
+      <Filter>헤더 파일\FILE Input/OUTPUT</Filter>
+    </Text>
+    <Text Include="output.txt">
+      <Filter>헤더 파일\FILE Input/OUTPUT</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
